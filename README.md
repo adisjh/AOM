@@ -1,4 +1,4 @@
 AOM
 ===
 
-AOM is Adisjh Own Management
+AOM is Adisjh Own Management.
